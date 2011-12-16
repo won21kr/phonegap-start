@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.won21kr.wonapp"
+	id		= "com.autoenglish.phonegapstart"
 	version 	= "99.999">
 
-	<name>Test WonApp</name>
+	<name>PhoneGapStart</name>
 
 	<description>
 		A template for getting started with PhoneGap development and build.phonegap.com
